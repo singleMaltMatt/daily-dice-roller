@@ -1,0 +1,43 @@
+html {
+    text-align: center;
+    background-color: #2C3639;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+button {
+    background-color: #A27B5C;
+    border-radius: 20px;
+    border-style: none;
+    padding: 10px 20px;
+    font-weight: bold;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: overline;
+}
+
+h1 {
+    color: #DCD7C9;
+    text-shadow: 10px 10px 20px;
+    text-decoration: overline;
+}
+
+p {
+    color: #DCD7C9;
+}
+
+#clear {
+    margin-top: 50px;
+    padding: 10px 20px;
+    text-decoration: overline;
+    text-decoration: overline;
+}
+
+#border,
+#border-2,
+#border-3 {
+    border: 5px solid #3F4E4F;
+    border-radius: 10px;
+    margin-top: 10px
+}
